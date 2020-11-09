@@ -1,2 +1,2 @@
 # hello-world
-just execise
+just exercise
